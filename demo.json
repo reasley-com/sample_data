@@ -1,9 +1,9 @@
       "data": {
-        "id": "glyph23",                   // id of the node
-        "class": "simple chemical",        // class of the node (see classes section for a list of supported sbgn glyphs
-        "label": "Ca2+",                   // label to be displayed on the node
-        "parent": "glyph2",                // parent node id if any
-        "clonemarker": false,              // whether the node has a clonemarker or not
-        "stateVariables": [],              // an array of state variables
-        "unitsOfInformation": [],          // an array of units of information
+        "id": "glyph23",              
+        "class": "simple chemical",        
+        "label": "Ca2+",       
+        "parent": "glyph2",              
+        "clonemarker": false,          
+        "stateVariables": [],      
+        "unitsOfInformation": [], 
       }
